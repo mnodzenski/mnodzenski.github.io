@@ -7,7 +7,7 @@ author_profile: true
 
 You can also find my publications at [google scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=x07iGN0AAAAJ)
 
-**42.** **Nodzenski M**\*, Shi M\*, Krahn JM, Wise AS, Li Y, Li L, Umbach DM, Weinberg CR. *GADGETS: A genetic algorithm for detecting epistasis using nuclear families*. Bioinformatics. In press. (\*co-first authors)
+**42.** **Nodzenski M**\*, Shi M\*, Krahn JM, Wise AS, Li Y, Li L, Umbach DM, Weinberg CR. *GADGETS: A genetic algorithm for detecting epistasis using nuclear families*. Bioinformatics. Bioinformatics. 2022; 38(4) 1052-1058. (\*co-first authors)
 [paper](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab766/6426075?searchresult=1) [software](https://github.com/mnodzenski/epistasisGA) 
 
 **41.** Poteat TC, Adams MA, Malone J, Geffen S, Greene N, **Nodzenski M**, Lockhart AG, Su IH, Dean LT. *Delays in breast cancer care by race and sexual orientation: Results from a national survey with diverse women in the United States*. Cancer. 2021; 127(19):3514-3522.
