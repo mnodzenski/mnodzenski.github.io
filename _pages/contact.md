@@ -6,4 +6,4 @@ author_profile: true
 redirect_from:
   - /contact
 ---
-[michael.nodzenski@unc.edu](mailto:michael.nodzenski@unc.edu)
+[michael.nodzenski@gmail.com](mailto:michael.nodzenski@gmail.com)
