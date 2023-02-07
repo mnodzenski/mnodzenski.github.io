@@ -7,6 +7,6 @@ redirect_from:
   - /software
 ---
 
-[epistasisGA](https://github.com/mnodzenski/epistasisGA) - A package to stochastically search for higher-order gene-gene interactions in nuclear family data using evolutionary computation. 
+[epistasisGA](http://www.bioconductor.org/packages/release/bioc/html/epistasisGA.html) - A package to stochastically search for higher-order gene-gene interactions in nuclear family data using evolutionary computation. 
 
 [metabomxtr](https://bioconductor.org/packages/release/bioc/html/metabomxtr.html) - A package to run mixture models for truncated metabolomics data with normal or lognormal distributions. Developed during my time as a Master's student. 
