@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Michael Nodzenski"
   avatar           : "nodzenski_portrait.png"
-  bio              : "PhD Candidate, Department of Biostatistics, University of North Carolina at Chapel Hill"
-  location         : "Chapel Hill, North Carolina"
-  employer         :
+  bio              : "Research Statistician Developer"
+  location         : "Cary, North Carolina"
+  employer         : "SAS"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=x07iGN0AAAAJ&hl=en"
   email            : "michael.nodzenski@gmail.com"
