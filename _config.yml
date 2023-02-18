@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Michael Nodzenski"
   avatar           : "nodzenski_portrait.png"
-  bio              : "Research Statistician Developer"
+  bio              : "Research Statistician Developer at SAS"
   location         : "Cary, North Carolina"
-  employer         : "SAS"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=x07iGN0AAAAJ&hl=en"
   email            : "michael.nodzenski@gmail.com"
