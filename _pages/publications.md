@@ -7,6 +7,10 @@ author_profile: true
 
 You can also find my publications at [google scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=x07iGN0AAAAJ)
 
+**44.** Liu W, Patel K, Wang Y, **Nodzenski M**, Nguyen A, Teramura G, Higgins HA, Hoogeveen RC, Couper D, Fu X, Konkle BA, Loop MS, Dong JF. *Dynamic and functional linkage between von Willebrand factor and ADAMTS-13 with aging: an Atherosclerosis Risk in Community study*. J Thromb Haemost. 2023; 21(12):3371-3382.
+
+**43.** Dirr MA, Christensen RE, Anvery N, Nadir U, Schaeffer M, Veledar E, Minkis K, **Nodzenski M**, Whittington A, Brieva JC, Tung R, Poon E, Alam M. *Pain of local anesthetic injection of lidocaine during subsequent stages of Mohs micrographic surgery: A multicenter prospective cohort study*. J Am Acad Dermatol. 2023; 89(1):114-118.
+
 **42.** **Nodzenski M**\*, Shi M\*, Krahn JM, Wise AS, Li Y, Li L, Umbach DM, Weinberg CR. *GADGETS: A genetic algorithm for detecting epistasis using nuclear families*. Bioinformatics. Bioinformatics. 2022; 38(4) 1052-1058. (\*co-first authors)
 [paper](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab766/6426075?searchresult=1) [software](https://github.com/mnodzenski/epistasisGA) 
 
