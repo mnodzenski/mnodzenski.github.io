@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Statistical Research Scientist at [Rho] (https://www.rhoworld.com/).
+I am currently a Statistical Research Scientist at [Rho](https://www.rhoworld.com/).
 
 Previously, I worked as a Research Statistician Developer at [SAS](https://www.sas.com/en_us/home.html), where I implemented statistical functions as part of SAS IML (Interactive Matrix Language) software. 
 
