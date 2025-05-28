@@ -7,6 +7,10 @@ author_profile: true
 
 You can also find my publications at [google scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=x07iGN0AAAAJ)
 
+**46.** **Nodzenski M**, Shi M, Umbach DM, Kidd B, Petty T, Weinberg CR. A method for finding epistatic effects of maternal and fetal variants. Front Genet. 2025; 16:1420641.
+
+**45.** Shi VJ, Ma MS, Koza E, Haq M, Ahmed A, Yi MD, Dirr MA, Anvery N, Christensen RE, Pagdhal K, Geisler A, **Nodzenski M**, Roongpisuthipong W, Brieva JC, Cahn BA, Yoo SS, Lucas J, Poon E, West DP, Fife D, Alam M. Subcision with and without suction for acne scars: a split-faced, rater-blinded randomized control trial. Arch Dermatol Res. 2024; 316(7):344.
+
 **44.** Liu W, Patel K, Wang Y, **Nodzenski M**, Nguyen A, Teramura G, Higgins HA, Hoogeveen RC, Couper D, Fu X, Konkle BA, Loop MS, Dong JF. *Dynamic and functional linkage between von Willebrand factor and ADAMTS-13 with aging: an Atherosclerosis Risk in Community study*. J Thromb Haemost. 2023; 21(12):3371-3382.
 
 **43.** Dirr MA, Christensen RE, Anvery N, Nadir U, Schaeffer M, Veledar E, Minkis K, **Nodzenski M**, Whittington A, Brieva JC, Tung R, Poon E, Alam M. *Pain of local anesthetic injection of lidocaine during subsequent stages of Mohs micrographic surgery: A multicenter prospective cohort study*. J Am Acad Dermatol. 2023; 89(1):114-118.
