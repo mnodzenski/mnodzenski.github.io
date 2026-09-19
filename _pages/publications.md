@@ -7,6 +7,14 @@ author_profile: true
 
 You can also find my publications at [google scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=x07iGN0AAAAJ)
 
+**50.** Schlievert PM, Kilgore SH, Berdyshev E, **Nodzenski M**, David G, Yoshida T, Beck LA, Leung DYM. Innate host defense lysozyme may help control Staphylococcus aureus in atopic dermatitis. Microbiol Spectr. 2026;14(9):e0158526.
+
+**49.** McKennan CG, Gebretsadik T, Brunwasser SM, **Nodzenski M**, Jackson DJ, Gern JE, Wu P, Hartert TV. Predicting age of respiratory syncytial virus infection from birth timing. Nat Commun. 2026; 17(1):1178. 
+
+**48.** Gallo RL, Nakatsuji T, Mares AR, Moon J, Osuoji O, Li V, Fernandez-Desoto A, Wu A, **Nodzenski M**, David G, Coleman A, Hata TR. Atopic Skin Resists Colonization by Beneficial  Bacteria: A First-in-Human Analysis of the Rate of Elimination of Topically Applied Bacteria. J Invest Dermatol. 2026; 146(4):1157-1160.e7.
+
+**47.** Visness CM, Sorkness CA, Sorkness R, Gergen PJ, **Nodzenski M**, Jackson DJ; National Institute of Allergy and Infectious Diseases?sponsored Childhood Asthma in Urban Settings Network. Impact of race-based spirometry equations on guideline-based asthma management in clinical trials. J Allergy Clin Immunol. 2025; 156(6):1752-1755.
+
 **46.** **Nodzenski M**, Shi M, Umbach DM, Kidd B, Petty T, Weinberg CR. A method for finding epistatic effects of maternal and fetal variants. Front Genet. 2025; 16:1420641.
 
 **45.** Shi VJ, Ma MS, Koza E, Haq M, Ahmed A, Yi MD, Dirr MA, Anvery N, Christensen RE, Pagdhal K, Geisler A, **Nodzenski M**, Roongpisuthipong W, Brieva JC, Cahn BA, Yoo SS, Lucas J, Poon E, West DP, Fife D, Alam M. Subcision with and without suction for acne scars: a split-faced, rater-blinded randomized control trial. Arch Dermatol Res. 2024; 316(7):344.
