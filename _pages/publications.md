@@ -7,7 +7,9 @@ author_profile: true
 
 You can also find my publications at [google scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=x07iGN0AAAAJ)
 
-**53.** **Nodzenski M**, Shi M, Umbach DM, Weinberg CR. A genetic algorithm for detecting higher-order gene-by-environment interactions using case-parent triads. Brief Bioinform. In press. 
+**54.** Lee E, **Nodzenski M**, Wood RA, Jackson DJ, Becker PM, Visness CM, Bacharier LB, Kattan M, O’Connor GT, Rivera-Spoljaric K, Gern JE. Associations of Early-Life Allergen Exposure and Sensitization with Childhood Wheeze and Asthma in Urban Children. J Allergy Clin Immunol. In press.
+
+**53.** **Nodzenski M**, Shi M, Umbach DM, Weinberg CR. A genetic algorithm for detecting higher-order gene-by-environment interactions using case-parent triads. Brief Bioinform. 2026; 27(5):bbag577.  
 
 **52.** Wheatley LM, Baker JR Jr, Adkinson NF, Gruchalla R, Schuler CF, Oberdoerster DA, Peters AT, Patel GB, Blumenthal KG, Wolfson AR, Robinson LB, Zoratti EM, Kim H, Phillips  EJ, Stone CA Jr, Ramsey A, Jones SM, Jefferson AA, Kuruvilla M, Garcia-Lloret M,  Ahn TS, Castells MC, Giannetti MP, Craig TJ, Henao MP, Casale TB, Pepper AN, Lanser BJ, Hoyte FCL, Mosnaim GS, Mehlis SL, Khan DA, Busse PJ, Schwartz  LB, Sur S, Carr TF, Sobieszczyk ME, Peden DB, Dykewicz MS, Fasano MB, Nelson MR, Sindher SB, Moss MH, Kleiner G, Dispenza MC, Lai SK, Lucas AT, Li Z, Le QT, Altman MC, Cox MS, Steen H, Ahmed S, Viode A, Pucilowska J, Bainha K, Milne GL, Amin W, Feener EP, Lee D, Galvan MD, Busby JR, Romano PR, Schroeder K, David G, Calatroni A, Mason K, **Nodzenski M**, Wu A, Storm W, Brittain E, Dempsey C, Poyser J, Hamrah SD, Li L, Togias A. Systemic Allergic Reactions to mRNA COVID-19 Vaccines: A Randomized Placebo-controlled Trial. J Allergy Clin Immunol. 2026; S0091-6749(26)00716-5. [Epub ahead of print]
 
